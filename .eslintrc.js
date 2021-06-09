@@ -24,8 +24,5 @@ module.exports = {
                 endOfLine: "auto",
             },
         ],
-        // {
-        // "import/no-named-as-default": false
-        // },
     },
 }
