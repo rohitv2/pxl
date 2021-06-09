@@ -1,0 +1,17 @@
+body {
+    font-family: "Helvetica";
+}
+html {
+    scroll-behavior: smooth;
+}
+#__next {
+    background-color: #fff;
+}
+
+div::-webkit-scrollbar {
+    width: 4px;
+}
+
+div::-webkit-scrollbar-thumb {
+    background-color: #ff8da1;
+}
